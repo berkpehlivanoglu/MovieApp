@@ -1,6 +1,6 @@
 # MovieApp
 
-A movie app for with splash, home and detail screens.
+A movie app with splash, home and detail screens.
 
 # Demo
 
@@ -15,7 +15,7 @@ A movie app for with splash, home and detail screens.
 
 # Installation
 
-1. A numbered list 
+1. Download or clone the project
 2. Navigate to the project directory and install third-party libraries.
 
 ```bash
