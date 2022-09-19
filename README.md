@@ -15,7 +15,7 @@ A movie app with splash, home and detail screens.
 
 # Installation
 
-1. Download or clone the project
+1. Download or clone the project.
 2. Navigate to the project directory and install third-party libraries.
 
 ```bash
@@ -26,7 +26,7 @@ A movie app with splash, home and detail screens.
 
 # Technical Considerations
 
-- Firebase remote congif is used for the SplashView screen to show text from the console.
+- Firebase remote config is used for the SplashView screen to show text from the console.
 - Firebase Analytics is used for the MovieDetail screen to log the movie data.
 - MVC architecture is used to design the app.
 - Used 3rd party depencencies.
